@@ -1,0 +1,13 @@
+﻿body {
+ color:rgb(2, 2, 15);
+}
+
+article {
+    float: left;
+    padding: 20px;
+    width: 40%;
+}
+
+h2 {
+    text-decoration: underline;
+}

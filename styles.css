@@ -1,0 +1,91 @@
+body {
+    color:rgba(104, 22, 180, 0.884);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    background-color: goldenrod;
+
+}
+   a:link {
+    color: #ebeeeb;
+    background-color: transparent;  
+    text-decoration: none;
+  }
+  a:visited {
+    color: rgb(123, 95, 189);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+
+   h1 {
+    font-size: xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    text-decoration-line: underline;
+   }
+  
+   content {
+    padding: 10px;
+   }
+   
+   h3 {
+    color: rgb(11, 91, 161);
+    float: left;
+    font-size: x-large;
+
+   }
+
+   h2 {
+    text-decoration-line: underline;
+   }
+
+   .city {
+    background-color: rgb(123, 95, 189);
+    color: black;
+    border: 2px solid black;
+    padding: 5px;
+    margin: 25px 100px 75px 100px;
+    }
+
+img {
+    padding: 10px 10px 10px 100px; 
+   }
+
+   ul {
+       list-style-type: none;
+       margin: 0;
+       padding: 0;
+       overflow: hidden;
+   }
+
+   li {
+   float: right;
+   display: block;
+   color: rgb(123, 95, 189);
+   text-align: center;
+   padding: 35px;
+   font-size: larger;
+   }
+   #footer {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    padding: 10px;
+  }
+
+  form {
+    color: black;
+    border: none
+    padding: 5px;
+    margin: 5px 10px 5px 10px
+  }
+
+fieldset {
+  margin-right: 1600px;
+  margin-left: 35px;
+  float: right;
+}
